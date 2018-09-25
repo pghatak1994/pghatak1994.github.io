@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+## Pratik Ghatak
 
-You can use the [editor on GitHub](https://github.com/pghatak1994/pghatak1994.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+2835 Parkwood Ln <br/>
+Aurora, IL 60502 <br/>
+(630) 857-0350 <br/>
+prateeqghatak@hotmail.com <br/>
+https://www.facebook.com/prateeq.ghatak.10
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
 
-### Markdown
+DePaul University Chicago
+Chicago, IL
+Current GPA:  3.850      
+2018-2020 <br/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+College of DuPage
+Glen Ellyn, IL 
+Cumulative GPA:  3.579       
+Associate of Arts, General Studies 
+Phi Theta Kappa
+2013 - 2016 <br/>
+  
+Metea Valley High School
+Aurora, IL
+2009 - 2013 <br/>
 
-```markdown
-Syntax highlighted code block
+### Experiences
 
-# Header 1
-## Header 2
-### Header 3
+ITPeopleNetwork
+Aurora, IL
+Intern
+2015 - 2016
 
-- Bulleted
-- List
+Panera Bread
+Aurora, IL
+Associate
+Winter 2015
 
-1. Numbered
-2. List
+Mariano’s
+Aurora, IL
+Deli Associate
+Summer 2014
 
-**Bold** and _Italic_ and `Code` text
+McDonalds
+Naperville, IL
+Associate
+Fall 2014
 
-[Link](url) and ![Image](src)
-```
+### Skills
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pghatak1994/pghatak1994.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Language: English, Bengali <br/>
+Computer Proficiencies: XHTML, HTML, Java, C++, JavaScript, PHP, UI/UX, Scripting, MySQL, Microsoft Office Applications Word, Excel, Powerpoint
